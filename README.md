@@ -22,11 +22,8 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+🔭 I’m currently working on Java<br>🌱 I’m currently learning Data Structure <br>💬 Ask me about C,C++,Java
 
-###
-
-<p align="left">C++ 🧑‍🎓 <br> Java .<br>Web Development</p>
 
 ###
 
