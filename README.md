@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
@@ -82,6 +82,11 @@
 </div>
 
 ###
+<h3 align="left">🔥   My Stats :</h3>
+![](https://github-readme-stats.vercel.app/api?username=hp2604&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hp2604&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hp2604&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **hp2604/hp2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
